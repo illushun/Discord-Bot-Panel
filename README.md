@@ -2,8 +2,8 @@
 
 ⚠️ A very early version of a panel for managing discord bots. ⚠️
 
-❓ DearPyGUI used for the UI ❓
-[I'm an inline-style link](https://www.google.com)
+❓ [DearPyGUI](https://github.com/hoffstadt/DearPyGui) used for the UI ❓
+
 Welcome Screen:<br />
 ![python_gWBSPR2PnI](https://user-images.githubusercontent.com/68855711/172057022-7c326333-22da-4194-8262-91d973ffefbb.png)
 
