@@ -1,9 +1,9 @@
 # Discord-Bot-Panel
-
+<br /><br />
 ⚠️ A very early version of a panel for managing discord bots. ⚠️
 
 ❓ [DearPyGUI](https://github.com/hoffstadt/DearPyGui) used for the UI ❓
-
+<br /><br />
 ## Previews
 
 Welcome Screen:<br />
